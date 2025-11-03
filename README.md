@@ -11,6 +11,11 @@ I'm deeply interested in the world of **technology** from web development to eme
 - 🌍 Open for collaboration
 - ✉️ Reach me at: **deaprima209@gmail.com**
 
+## 🌐 Connect with Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deaprima) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deaprima) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dea_prim)
+
 ---
 
 ## 🧰 Toolbox  
@@ -26,16 +31,3 @@ I'm deeply interested in the world of **technology** from web development to eme
 
 ### 🧰 Tools & Platforms  
 ![Tools](https://skillicons.dev/icons?i=git,github,postman,figma)
-
----
-
-## 📊 GitHub Stats  
-
-![Prima's GitHub stats](https://github-readme-stats.vercel.app/api?username=deaprima&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deaprima&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=deaprima&theme=tokyonight&border_radius=10)
-
----
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deaprima)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deaprima)
