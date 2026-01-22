@@ -21,10 +21,10 @@ I'm deeply interested in the world of **technology** from web development to eme
 ## 🧰 Toolbox  
 
 ### 💻 Programming Languages  
-![Languages](https://skillicons.dev/icons?i=html,css,c,cpp,javascript,typescript,php,python)
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,php)
 
 ### ⚙️ Frameworks & Libraries  
-![Frameworks](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,nodejs,express,fastapi,laravel,vite)
+![Frameworks](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,nodejs,express,laravel)
 
 ### 🗄️ Databases  
 ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
