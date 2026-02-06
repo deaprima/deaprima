@@ -21,7 +21,7 @@ I'm deeply interested in the world of **technology** from web development to eme
 ## 🧰 Toolbox  
 
 ### 💻 Programming Languages  
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,php)
+![Languages](https://skillicons.dev/icons?i=javascript,typescript,php)
 
 ### ⚙️ Frameworks & Libraries  
 ![Frameworks](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,nodejs,express,laravel)
@@ -30,4 +30,4 @@ I'm deeply interested in the world of **technology** from web development to eme
 ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)
 
 ### 🧰 Tools & Platforms  
-![Tools](https://skillicons.dev/icons?i=git,github,postman,figma)
+![Tools](https://skillicons.dev/icons?i=git,github,postman)
