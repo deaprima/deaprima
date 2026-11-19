@@ -4,6 +4,7 @@ Microservices · Distributed Systems · Reliability · Observability
 
 <a href="https://github.com/deaprima"><img src="https://img.shields.io/badge/GitHub-deaprima-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/deaprima"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://deaprima.my.id"><img src="https://img.shields.io/badge/Website-deaprima.my.id-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="mailto:deaprima209@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
